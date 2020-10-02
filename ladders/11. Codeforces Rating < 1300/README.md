@@ -70,25 +70,25 @@
 |<ul><li>- Done</li></ul>|63|[Little Girl and Game](http://codeforces.com/problemset/problem/276/B)|Codeforces|3|
 |<ul><li>- Done</li></ul>|64|[Sail](http://codeforces.com/problemset/problem/298/B)|Codeforces|3|
 |<ul><li>- Done</li></ul>|65|[Shower Line](http://codeforces.com/problemset/problem/431/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|66|[Shooshuns and Sequence ](http://codeforces.com/problemset/problem/222/A)|Codeforces|3|
+|<ul><li>- [.] Done</li></ul>|66|[Shooshuns and Sequence ](http://codeforces.com/problemset/problem/222/A)|Codeforces|3|
 |<ul><li>- Done</li></ul>|67|[Xenia and Divisors](http://codeforces.com/problemset/problem/342/A)|Codeforces|3|
 |<ul><li>- Done</li></ul>|68|[Letter](http://codeforces.com/problemset/problem/43/B)|Codeforces|3|
 |<ul><li>- Done</li></ul>|69|[Kitahara Haruki's Gift](http://codeforces.com/problemset/problem/433/A)|Codeforces|3|
 |<ul><li>- Done</li></ul>|70|[Comparing Strings](http://codeforces.com/problemset/problem/186/A)|Codeforces|3|
 |<ul><li>- Done</li></ul>|71|[Hungry Sequence](http://codeforces.com/problemset/problem/327/B)|Codeforces|3|
 |<ul><li>- Done</li></ul>|72|[Big Segment](http://codeforces.com/problemset/problem/242/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|73|[Little Elephant and Bits](http://codeforces.com/problemset/problem/258/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|74|[Yaroslav and Permutations](http://codeforces.com/problemset/problem/296/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|75|[Fence](http://codeforces.com/problemset/problem/363/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|76|[TL](http://codeforces.com/problemset/problem/350/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|77|[Increase and Decrease](http://codeforces.com/problemset/problem/246/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|78|[Two Bags of Potatoes](http://codeforces.com/problemset/problem/239/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|79|[Unlucky Ticket](http://codeforces.com/problemset/problem/160/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|80|[Boys and Girls](http://codeforces.com/problemset/problem/253/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|81|[Easy Number Challenge](http://codeforces.com/problemset/problem/236/B)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|82|[Pythagorean Theorem II](http://codeforces.com/problemset/problem/304/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|83|[Cards with Numbers](http://codeforces.com/problemset/problem/254/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|84|[Domino](http://codeforces.com/problemset/problem/353/A)|Codeforces|3|
+|<ul><li>- [.] Done</li></ul>|73|[Little Elephant and Bits](http://codeforces.com/problemset/problem/258/A)|Codeforces|3|
+|<ul><li>- Done</li></ul>|74|[Yaroslav and Permutations](http://codeforces.com/problemset/problem/296/A)|Codeforces|3|
+|<ul><li>- Done</li></ul>|75|[Fence](http://codeforces.com/problemset/problem/363/B)|Codeforces|3|
+|<ul><li>- Done</li></ul>|76|[TL](http://codeforces.com/problemset/problem/350/A)|Codeforces|3|
+|<ul><li>- [.] Done</li></ul>|77|[Increase and Decrease](http://codeforces.com/problemset/problem/246/B)|Codeforces|3|
+|<ul><li>- Done</li></ul>|78|[Two Bags of Potatoes](http://codeforces.com/problemset/problem/239/A)|Codeforces|3|
+|<ul><li>- Done</li></ul>|79|[Unlucky Ticket](http://codeforces.com/problemset/problem/160/B)|Codeforces|3|
+|<ul><li>- Done</li></ul>|80|[Boys and Girls](http://codeforces.com/problemset/problem/253/A)|Codeforces|3|
+|<ul><li>- Done</li></ul>|81|[Easy Number Challenge](http://codeforces.com/problemset/problem/236/B)|Codeforces|3|
+|<ul><li>- Done</li></ul>|82|[Pythagorean Theorem II](http://codeforces.com/problemset/problem/304/A)|Codeforces|3|
+|<ul><li>- Done</li></ul>|83|[Cards with Numbers](http://codeforces.com/problemset/problem/254/A)|Codeforces|3|
+|<ul><li>- Done</li></ul>|84|[Domino](http://codeforces.com/problemset/problem/353/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|85|[Cinema Line](http://codeforces.com/problemset/problem/349/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|86|[Rank List](http://codeforces.com/problemset/problem/166/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|87|[Cut Ribbon](http://codeforces.com/problemset/problem/189/A)|Codeforces|3|
